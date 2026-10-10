@@ -1,0 +1,13 @@
+name = "PCGLNS"
+uuid = "c919873f-2ef1-44aa-b206-72cd4a1a1a30"
+authors = ["Andrei Kuryavtsev, Michael Khachay"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
