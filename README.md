@@ -170,5 +170,8 @@ Every column is documented in [`DATA.md`](DATA.md).
 
 ## License
 
-*To be defined by the authors before the repository is made public.* The bundled PCGLNS solver keeps its own
-Apache-2.0 license.
+The code of this repository is released under the [MIT License](LICENSE). Unless noted otherwise, the same license
+covers the instances and result files produced by the authors (Set I and the files in `pcgtsp_comparison/`).
+Third-party material keeps its original terms: the bundled PCGLNS solver (Apache-2.0, see
+`external_tools/pcglns/LICENSE`), PCGTSPLIB, the ESICUP-derived layouts and the instances of Zhang et al. (2024);
+please consult the original sources.
