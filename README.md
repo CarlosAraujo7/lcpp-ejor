@@ -12,7 +12,9 @@ against PCGLNS (Kuryavtsev & Khachay) and against a VNS re-implemented from Zhan
 The objective (FO) is the total processing time: cutting time at `v_cut = 100/6` plus non-cutting
 (laser off) movement time at `v_air = 400`, both measured with the Chebyshev metric.
 
-> Paper: *citation to be added after publication.*
+> Paper: *Segment-Level Laser Cutting Path Planning with Dynamic Deadheading: A Hybrid Spatial–Graph Heuristic* (submitted to the European Journal of Operational Research; the journal citation will be added after publication).
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23537380.svg)](https://doi.org/10.5281/zenodo.23537380)
 
 **Data.** All instances used in the paper and the complete results (per instance and per seed) are in this repository.
 See [`DATA.md`](DATA.md) for where each file is, the formats and units, and a description of every result column;
@@ -166,7 +168,11 @@ Every column is documented in [`DATA.md`](DATA.md).
 
 ## Citation
 
-*To be added after publication.*
+If you use this code or data, please cite the archived release on Zenodo (the DOI below always resolves to the latest version):
+
+> Amaro Junior, B., Costa Santos, M., Nepomuceno de Carvalho, G., Dantas Araújo, C. V., & Pinheiro, P. R. (2026). *Code and data for: Segment-Level Laser Cutting Path Planning with Dynamic Deadheading: A Hybrid Spatial–Graph Heuristic* [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23537380
+
+A `CITATION.cff` file is provided; the citation of the journal paper will be added after publication.
 
 ## License
 
