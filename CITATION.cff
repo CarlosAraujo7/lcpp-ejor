@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Code and data for: Segment-Level Laser Cutting Path Planning with Dynamic Deadheading: A Hybrid Spatial-Graph Heuristic"
+authors:
+  - family-names: "Amaro Junior"
+    given-names: "Bonfim"
+  - family-names: "Costa Santos"
+    given-names: "Marcio"
+  - family-names: "Nepomuceno de Carvalho"
+    given-names: "Guilherme"
+  - family-names: "Dantas Araújo"
+    given-names: "Carlos Vinicio"
+  - family-names: "Pinheiro"
+    given-names: "Plácido Rogério"
+license: MIT
+repository-code: "https://github.com/CarlosAraujo7/lcpp-ejor"
